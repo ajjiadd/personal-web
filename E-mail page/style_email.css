@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    
+}
+
+:root{
+    --bg-color: rgb(31, 36, 45);
+    --second-bg-color: #323946;
+    --text-color: #fff;
+    --main-color: rgb(255, 221, 0);
+}
+
+body{
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+.box-i{
+    border: 10px solid var(--main-color);
+    border-radius: 25rem 0 25rem 0  ;
+    padding: 7rem;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.title{
+    text-align: center;
+    border: 5px solid aqua;
+    padding: 5rem;
+    border-radius: 0 25rem 0 25rem  ;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
