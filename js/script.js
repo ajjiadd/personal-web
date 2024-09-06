@@ -57,7 +57,7 @@ ScrollReveal({
 
  /* typed js*/
 var typed = new Typed(".auto-text", {
-    strings: ["Frontend Developer", "Graphics Designer", "UIUX Designer", "YouTuber"],
+    strings: ["Web Developer", "Graphics Designer", "UIUX Designer", "YouTuber"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
